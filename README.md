@@ -25,6 +25,7 @@ Lab2: 4.75/5
 Lab3: 10/10
 
 Mistakes I made in the answer sheet are all corrected.
+They should all be in correct versions.
 
 ## Contact
 If you find any bugs in my code, or you have any questions, or you just want to chat, please do not hesitate to contact me :)
